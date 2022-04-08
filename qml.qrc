@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/player_cover_01.png</file>
+        <file>resources/images/player_cover_02.png</file>
+        <file>resources/images/player_cover_03.png</file>
+        <file>resources/images/player_cover_04.png</file>
+        <file>resources/images/player_cover_05.png</file>
+        <file>resources/images/player_cover_06.png</file>
+        <file>resources/images/player_cover_07.png</file>
+        <file>resources/images/avatar0.jfif</file>
+        <file>resources/images/avatar1.jfif</file>
+        <file>source/qml/main.qml</file>
+        <file>source/qml/LinearPathView.qml</file>
+        <file>source/qml/StyledLinearPathView.qml</file>
+        <file>source/qml/MediaPlayer.qml</file>
+        <file>source/qml/ContactsList.qml</file>
+        <file>source/qml/ImageEntryDelegate.qml</file>
+    </qresource>
+</RCC>
